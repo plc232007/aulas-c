@@ -1,0 +1,5 @@
+Gravando 3 elementos no arquivo:
+----------------------------------
+25
+30
+42

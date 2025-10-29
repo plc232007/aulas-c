@@ -1,0 +1,13 @@
+# Ignorar todos os arquivos objeto
+*.o
+
+# Ignorar todos os arquivos executáveis (Linux/macOS)
+# (Se você usa nomes específicos, adicione-os)
+*.out
+a.out
+
+# Ignorar executáveis do Windows
+*.exe
+
+# Ignorar pastas de configuração de IDEs (ex: VSCode)
+.vscode/
